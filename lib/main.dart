@@ -192,6 +192,7 @@ class _DestinationFlipCardState extends State<DestinationFlipCard> {
   }
 }
 
+// Frequent Destinations
 class Destination {
   final String name;
   final String imageUrl;
